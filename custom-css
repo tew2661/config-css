@@ -1,0 +1,142 @@
+body,
+    span,
+    p,
+    label {
+        font-family: 'Prompt', sans-serif !important;
+        font-size: 14px
+    }
+
+    .survey-title {
+        font-family: 'Prompt', sans-serif !important;
+
+    }
+
+    .prompt-thin {
+        font-family: "Prompt", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+    }
+
+    .prompt-extralight {
+        font-family: "Prompt", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+
+    .prompt-light {
+        font-family: "Prompt", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+
+    .prompt-regular {
+        font-family: "Prompt", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .prompt-medium {
+        font-family: "Prompt", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .prompt-semibold {
+        font-family: "Prompt", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .prompt-bold {
+        font-family: "Prompt", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    .prompt-extrabold {
+        font-family: "Prompt", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+    }
+
+    .prompt-black {
+        font-family: "Prompt", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+    }
+
+    .prompt-thin-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 100;
+        font-style: italic;
+    }
+
+    .prompt-extralight-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 200;
+        font-style: italic;
+    }
+
+    .prompt-light-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 300;
+        font-style: italic;
+    }
+
+    .prompt-regular-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .prompt-medium-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 500;
+        font-style: italic;
+    }
+
+    .prompt-semibold-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 600;
+        font-style: italic;
+    }
+
+    .prompt-bold-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 700;
+        font-style: italic;
+    }
+
+    .prompt-extrabold-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 800;
+        font-style: italic;
+    }
+
+    .prompt-black-italic {
+        font-family: "Prompt", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+    }
+
+    input[type="text"] {
+        display: block;
+        width: 100%;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: .25rem;
+        transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+
+    input[type="radio"] {
+        margin-right: 8px;
+    }
